@@ -5,3 +5,10 @@ C:\Users\alexi\source\repos\Tetris1\Tetris1\obj\Debug\Tetris1.csproj.AssemblyRef
 C:\Users\alexi\source\repos\Tetris1\Tetris1\obj\Debug\Tetris1.csproj.CoreCompileInputs.cache
 C:\Users\alexi\source\repos\Tetris1\Tetris1\obj\Debug\Tetris1.exe
 C:\Users\alexi\source\repos\Tetris1\Tetris1\obj\Debug\Tetris1.pdb
+C:\Users\alexi\source\repos\Tetris1\Tetris\Tetris1\bin\Debug\Tetris1.exe.config
+C:\Users\alexi\source\repos\Tetris1\Tetris\Tetris1\bin\Debug\Tetris1.exe
+C:\Users\alexi\source\repos\Tetris1\Tetris\Tetris1\bin\Debug\Tetris1.pdb
+C:\Users\alexi\source\repos\Tetris1\Tetris\Tetris1\obj\Debug\Tetris1.csproj.AssemblyReference.cache
+C:\Users\alexi\source\repos\Tetris1\Tetris\Tetris1\obj\Debug\Tetris1.csproj.CoreCompileInputs.cache
+C:\Users\alexi\source\repos\Tetris1\Tetris\Tetris1\obj\Debug\Tetris1.exe
+C:\Users\alexi\source\repos\Tetris1\Tetris\Tetris1\obj\Debug\Tetris1.pdb
